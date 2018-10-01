@@ -124,3 +124,5 @@ C:\Users\david\Documents\MacBookStore\MacBookStore\MacBookStore\obj\Debug\MacBoo
 C:\Users\david\Documents\MacBookStore\MacBookStore\MacBookStore\obj\Debug\MacBookStore.csproj.CopyComplete
 C:\Users\david\Documents\MacBookStore\MacBookStore\MacBookStore\obj\Debug\MacBookStore.dll
 C:\Users\david\Documents\MacBookStore\MacBookStore\MacBookStore\obj\Debug\MacBookStore.pdb
+C:\Users\david\Documents\MacBookStore\MacBookStore\MacBookStore\obj\Debug\MacBookStore.Migrations.AddBookAndGenreClass.resources
+C:\Users\david\Documents\MacBookStore\MacBookStore\MacBookStore\obj\Debug\MacBookStore.csproj.GenerateResource.cache
